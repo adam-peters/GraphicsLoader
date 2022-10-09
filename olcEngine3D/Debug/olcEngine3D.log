@@ -1,0 +1,8 @@
+﻿  olcEngine3D.cpp
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(285,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(285,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(284,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(284,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(283,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mrada\source\repos\olcEngine3D\olcEngine3D\olcEngine3D.cpp(283,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  olcEngine3D.vcxproj -> C:\Users\mrada\source\repos\olcEngine3D\Debug\olcEngine3D.exe
